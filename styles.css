@@ -3,6 +3,8 @@
 .box{
 border: 15px solid blue;
 background-color: lightblue;
-width: 300px;
-padding: 50px 50px 50px 50px;
+height: 300px;
+width: 500px;
+padding: 50px;
+margin: 20px;
 }
